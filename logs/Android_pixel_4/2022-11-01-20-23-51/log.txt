@@ -1,0 +1,9 @@
+1:Android:pixel_4:com.qa.BaseTest:C:\Users\sukhp\Desktop\Eclipse\AppiumFrameworkTDD\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+1:Android:pixel_4:com.qa.tests.LoginTests:
+********* Starting Test: invalidUserName
+
+1:Android:pixel_4:com.qa.pages.LoginPage:Login with username: invalidUser
+1:Android:pixel_4:com.qa.pages.LoginPage:Login with password: secret_sauce
+1:Android:pixel_4:com.qa.pages.LoginPage:Pressed Login Button.
+1:Android:pixel_4:com.qa.tests.LoginTests:Actual error text: Username and password do not match any user in this service.
+Expected error test: Username and password do not match any user in this service.

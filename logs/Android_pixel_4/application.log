@@ -1,0 +1,8 @@
+[logsAndroid_pixel_4 INFO ] 2022-11-01 20:25:49.358 BaseTest:60 - log path: logs\Android_pixel_4
+[logsAndroid_pixel_4 INFO ] 2022-11-01 20:25:49.396 BaseTest:62 - Before Test method started...
+[logsAndroid_pixel_4 ERROR] 2022-11-01 20:25:49.396 BaseTest:63 - this is the error message.
+[logsAndroid_pixel_4 INFO ] 2022-11-01 20:26:05.710 BaseTest:152 - video path: videos\Android_pixel_4\2022-11-01-20-25-49\LoginTests\invalidUserName.mp4
+[logsAndroid_pixel_4 INFO ] 2022-11-01 22:07:08.999 BaseTest:64 - log path: logs\Android_pixel_4
+[logsAndroid_pixel_4 INFO ] 2022-11-01 22:07:09.046 BaseTest:66 - Before Test method started...
+[logsAndroid_pixel_4 ERROR] 2022-11-01 22:07:09.046 BaseTest:67 - this is the error message.
+[logsAndroid_pixel_4 INFO ] 2022-11-01 22:07:28.304 BaseTest:175 - video path: videos\Android_pixel_4\2022-11-01-22-07-09\LoginTests\invalidUserName.mp4
